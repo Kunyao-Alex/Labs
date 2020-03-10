@@ -1,7 +1,7 @@
-// This is a new comment
 import java.util.Scanner;
 import java.lang.Math;
 
+// This is a new comment
 public class SciCalculator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
